@@ -1,6 +1,7 @@
 # CS-300-Data-Structures-and-Algorithms
 
 # Summary
+Students will develop code as well as use non-coding development methodologies in algorithmic design and problem solving. Students will use advanced algorithmic designs to evaluate complex data structures to aid in problem solving. 
 
 # What was the problem you were solving in the projects for this course?
 
