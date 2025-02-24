@@ -2,7 +2,7 @@
 // Name        : LinkedList.cpp
 // Author      : Matthew A Keaton
 // Version     : 1.0
-// Copyright   : Copyright © 2023 SNHU COCE
+// Copyright   : Copyright Â© 2023 SNHU COCE
 // Description : Lab 3-2 Lists and Searching
 //============================================================================
 
